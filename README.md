@@ -1,6 +1,8 @@
 # Hi, I'm Het Jani 
 
 --- Computer Engineering Student at LDRP Institute of Technology & Research
+
+
 --- Passionate about AI, Java, Python & Full-Stack Development
 
 ---
