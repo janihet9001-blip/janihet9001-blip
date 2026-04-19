@@ -41,12 +41,12 @@ MySQL | SQLite | Redis
 * Dashboard built with Streamlit
 
  **Hand Gesture OpenCV Project**
-
+[Hand Gesture OpenCV Project](https://github.com/janihet9001-blip/Hand-Effect-OpenCV)
 * Real-time hand tracking and effects
 * Built using OpenCV and Python
 
  **NEXUS AI Browser Assistant**
-
+[NEXUS AI Browser Assistant](https://github.com/janihet9001-blip/NEXUS-AI-Browser-Assistant)  
 * Chrome extension controlled using natural language
 * Integrated AI model for real-time responses
 
