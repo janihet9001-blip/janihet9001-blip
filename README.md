@@ -39,6 +39,14 @@ I enjoy building real-world projects using Python, Java, and modern technologies
 
 ---
 
+##  GitHub Stats  
+
+![Stats](https://github-readme-stats.vercel.app/api?username=janihet9001-blip&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=janihet9001-blip&layout=compact&theme=dark)
+
+----
+
 ##  Education
 
 B.E. Computer Engineering (2023 – 2027)
