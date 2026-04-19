@@ -25,6 +25,7 @@ I enjoy building real-world projects using Python, Java, and modern technologies
 
 [AI Attendance System](https://github.com/janihet9001-blip/AI-Attendance-System)
 
+* AI-based face recognition attendance system that automates manual attendance and improves accuracy using real-time processing.
 * Face recognition based attendance system
 * Real-time tracking using OpenCV & InsightFace
 * Dashboard built with Streamlit
@@ -39,13 +40,17 @@ I enjoy building real-world projects using Python, Java, and modern technologies
 
 ---
 
-##  GitHub Stats  
-
-![Stats](https://github-readme-stats.vercel.app/api?username=janihet9001-blip&show_icons=true&theme=dark)
+##  GitHub Stats 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=janihet9001-blip&layout=compact&theme=dark)
 
 ----
+
+##  Activity  
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=janihet9001-blip&theme=dark)
+
+---
 
 ##  Education
 
