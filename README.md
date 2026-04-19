@@ -2,6 +2,8 @@
 
 ##  About Me  
 
+![Profile Views](https://komarev.com/ghpvc/?username=janihet9001-blip&color=blue&style=for-the-badge)
+
 I am a Computer Engineering student passionate about AI and software development.  
 I enjoy building real-world projects using Python, Java, and modern technologies.
 
@@ -14,27 +16,37 @@ I enjoy building real-world projects using Python, Java, and modern technologies
 
 ##  Skills
 
-**Languages:** Java, Python, JavaScript  
-**Libraries:** OpenCV, InsightFace, NumPy, Pandas  
-**Tools:** Git, GitHub, VS Code  
-**Databases:** MySQL, Redis  
+## 🛠️ Skills  
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-D82C20?style=for-the-badge&logo=redis&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
 ## Projects
 
-[AI Attendance System](https://github.com/janihet9001-blip/AI-Attendance-System)
+[![AI Attendance System](https://img.shields.io/badge/AI-Attendance_System-blue?style=for-the-badge)](https://github.com/janihet9001-blip/AI-Attendance-System)
 
 * AI-based face recognition attendance system that automates manual attendance and improves accuracy using real-time processing.
 * Face recognition based attendance system
 * Real-time tracking using OpenCV & InsightFace
 * Dashboard built with Streamlit
 
-[Hand Gesture OpenCV Project](https://github.com/janihet9001-blip/Hand-Effect-OpenCV)
+[![Hand Gesture OpenCV](https://img.shields.io/badge/Hand_Gesture-OpenCV-blueviolet?style=for-the-badge)](https://github.com/janihet9001-blip/Hand-Effect-OpenCV)
 * Real-time hand tracking and effects
 * Built using OpenCV and Python
 
-[NEXUS AI Browser Assistant](https://github.com/janihet9001-blip/NEXUS-AI-Browser-Assistant)  
+[![NEXUS AI Assistant](https://img.shields.io/badge/NEXUS-AI_Assistant-green?style=for-the-badge)](https://github.com/janihet9001-blip/NEXUS-AI-Browser-Assistant)
 * Chrome extension controlled using natural language
 * Integrated AI model for real-time responses
 
