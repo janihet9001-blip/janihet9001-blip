@@ -33,19 +33,16 @@ MySQL | SQLite | Redis
 
 ## Projects
 
- **AI Attendance System**
-[![View Project](https://img.shields.io/badge/View-Project-blue)](https://github.com/janihet9001-blip/AI-Attendance-System)
+[AI Attendance System](https://github.com/janihet9001-blip/AI-Attendance-System)
 
 * Face recognition based attendance system
 * Real-time tracking using OpenCV & InsightFace
 * Dashboard built with Streamlit
 
- **Hand Gesture OpenCV Project**
 [Hand Gesture OpenCV Project](https://github.com/janihet9001-blip/Hand-Effect-OpenCV)
 * Real-time hand tracking and effects
 * Built using OpenCV and Python
 
- **NEXUS AI Browser Assistant**
 [NEXUS AI Browser Assistant](https://github.com/janihet9001-blip/NEXUS-AI-Browser-Assistant)  
 * Chrome extension controlled using natural language
 * Integrated AI model for real-time responses
