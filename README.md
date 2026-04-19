@@ -17,7 +17,7 @@ I enjoy building real-world projects using Python, Java, and modern technologies
 **Languages:** Java, Python, JavaScript  
 **Libraries:** OpenCV, InsightFace, NumPy, Pandas  
 **Tools:** Git, GitHub, VS Code  
-**Databases:** MySQL, Redis  is
+**Databases:** MySQL, Redis  
 
 ---
 
