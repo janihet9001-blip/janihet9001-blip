@@ -34,7 +34,7 @@ MySQL | SQLite | Redis
 ## Projects
 
  **AI Attendance System**
-https://github.com/janihet9001-blip/AI-Attendance-System
+[![View Project](https://img.shields.io/badge/View-Project-blue)](https://github.com/janihet9001-blip/AI-Attendance-System)
 
 * Face recognition based attendance system
 * Real-time tracking using OpenCV & InsightFace
