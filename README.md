@@ -1,5 +1,10 @@
 # Hi, I'm Het Jani 
 
+##  About Me  
+
+I am a Computer Engineering student passionate about AI and software development.  
+I enjoy building real-world projects using Python, Java, and modern technologies.
+
 --- Computer Engineering Student at LDRP Institute of Technology & Research
 
 
@@ -7,27 +12,12 @@
 
 ---
 
-##  About Me
-
-I am a Computer Engineering undergraduate with hands-on experience in building **AI-based applications** and **real-world software projects**.
-I enjoy solving problems and continuously improving my development skills.
-
----
-
 ##  Skills
 
-**Languages:**
-Java | Python | JavaScript | SQL | HTML | CSS
-
-**Libraries & Frameworks:**
-OpenCV | InsightFace | NumPy | Pandas | Scikit-learn | Streamlit
-Spring MVC | Hibernate | Servlets | JSP
-
-**Tools:**
-Git | GitHub | VS Code | IntelliJ IDEA | Jupyter Notebook
-
-**Databases:**
-MySQL | SQLite | Redis
+**Languages:** Java, Python, JavaScript  
+**Libraries:** OpenCV, InsightFace, NumPy, Pandas  
+**Tools:** Git, GitHub, VS Code  
+**Databases:** MySQL, Redis  is
 
 ---
 
