@@ -35,7 +35,7 @@ I enjoy building real-world projects using Python, Java, and modern technologies
 
 ---
 
-## Projects
+## Projects  
 
 [![AI Attendance System](https://img.shields.io/badge/AI-Attendance_System-blue?style=for-the-badge)](https://github.com/janihet9001-blip/AI-Attendance-System)
 
