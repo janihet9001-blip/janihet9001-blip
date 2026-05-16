@@ -112,9 +112,9 @@ Computer Engineering student at **LDRP Institute of Technology & Research** (202
 
 <div align="center">
 
-![Het's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=janihet9001-blip&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=janihet9001-blip&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
+![Contributions](https://img.shields.io/badge/Total_Contributions-80-2563EB?style=for-the-badge&logo=github&logoColor=white)
+![Streak](https://img.shields.io/badge/Current_Streak-8_days-10B981?style=for-the-badge&logo=github&logoColor=white)
+![Since](https://img.shields.io/badge/GitHub_Since-Dec_2025-8B5CF6?style=for-the-badge&logo=github&logoColor=white)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=janihet9001-blip&theme=tokyonight&hide_border=true)
 
