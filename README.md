@@ -10,18 +10,18 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 Computer Engineering student at **LDRP Institute of Technology & Research** (2023–2027), passionate about building intelligent, real-world systems at the intersection of AI and full-stack development.
 
-- 🎓 B.E. Computer Engineering — graduating 2027
-- 🔭 Currently building an **AI-powered Interview Platform** with real-time WebSocket, LLM evaluation, and voice I/O
-- 🤖 Interested in **LLMs, computer vision, and distributed systems**
-- 💡 I learn by building — every project is written from scratch, manually
+- B.E. Computer Engineering — graduating 2027
+- Currently building an **AI-powered Interview Platform** with real-time WebSocket, LLM evaluation, and voice I/O
+- Interested in **LLMs, computer vision, and distributed systems**
+- I learn by building — every project is written from scratch, manually
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -56,9 +56,9 @@ Computer Engineering student at **LDRP Institute of Technology & Research** (202
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🎙️ AI Interview Preparation Platform
+### AI Interview Preparation Platform
 > Full-stack platform where an AI conducts technical interviews in real-time, with live recruiter controls, voice interaction, and LLM-based evaluation.
 
 [![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/janihet9001-blip)
@@ -67,48 +67,48 @@ Computer Engineering student at **LDRP Institute of Technology & Research** (202
 ![WebSocket](https://img.shields.io/badge/WebSocket-FF6C37?style=flat-square)
 ![Groq](https://img.shields.io/badge/Groq_LLaMA-F55036?style=flat-square)
 
-- 🤖 AI chatbot asks questions one-by-one with **text-to-speech** output
-- 🎤 Candidate responds via **voice or text** — interim speech shown in real time
-- 👁️ Recruiter sees **live keystrokes**, can inject custom questions, pause/resume/end
-- 🔒 **Silent proctoring** — detects paste, tab-switch, window-blur without alerting candidate
-- 📄 **Resume screening** — upload PDF/DOCX → Groq generates tailored interview questions
-- ⚡ Real-time via **WebSocket + STOMP**, evaluated by **LLaMA 3.3 70B** on Groq
-- 🗄️ PostgreSQL on Supabase, JWT auth, BCrypt passwords, sessionStorage security
+- AI chatbot asks questions one-by-one with **text-to-speech** output
+- Candidate responds via **voice or text** — interim speech shown in real time
+- Recruiter sees **live keystrokes**, can inject custom questions, pause/resume/end
+- Silent proctoring — detects paste, tab-switch, window-blur without alerting candidate
+- Resume screening — upload PDF/DOCX → Groq generates tailored interview questions
+- Real-time via **WebSocket + STOMP**, evaluated by **LLaMA 3.3 70B** on Groq
+- PostgreSQL on Supabase, JWT auth, BCrypt passwords, sessionStorage security
 
 ---
 
-### 🧠 AI Attendance System
+### AI Attendance System
 [![Repo](https://img.shields.io/badge/GitHub-AI_Attendance_System-181717?style=for-the-badge&logo=github)](https://github.com/janihet9001-blip/AI-Attendance-System)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-- 👤 Face recognition-based attendance using **InsightFace + OpenCV**
-- ⚡ Real-time detection and tracking
-- 📊 Dashboard built with **Streamlit**
+- Face recognition-based attendance using **InsightFace + OpenCV**
+- Real-time detection and tracking
+- Dashboard built with **Streamlit**
 
 ---
 
-### 🖐️ Hand Gesture OpenCV
+### Hand Gesture OpenCV
 [![Repo](https://img.shields.io/badge/GitHub-Hand_Gesture_OpenCV-181717?style=for-the-badge&logo=github)](https://github.com/janihet9001-blip/Hand-Effect-OpenCV)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-- ✋ Real-time hand tracking with visual effects
+- Real-time hand tracking with visual effects
 - Built with **OpenCV** and Python
 
 ---
 
-### 🌐 NEXUS AI Browser Assistant
+### NEXUS AI Browser Assistant
 [![Repo](https://img.shields.io/badge/GitHub-NEXUS_AI_Assistant-181717?style=for-the-badge&logo=github)](https://github.com/janihet9001-blip/NEXUS-AI-Browser-Assistant)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-- 🧩 Chrome extension controlled via **natural language**
-- 🤖 Integrated AI model for real-time browser responses
+- Chrome extension controlled via **natural language**
+- Integrated AI model for real-time browser responses
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -122,7 +122,7 @@ Computer Engineering student at **LDRP Institute of Technology & Research** (202
 
 ---
 
-## 🎓 Education
+## Education
 
 | Degree | Institution | Year |
 |---|---|---|
@@ -130,7 +130,7 @@ Computer Engineering student at **LDRP Institute of Technology & Research** (202
 
 ---
 
-## 📬 Connect With Me
+## Connect With Me
 
 <div align="center">
 
