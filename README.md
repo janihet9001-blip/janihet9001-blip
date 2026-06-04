@@ -2,14 +2,6 @@
 
 # Het Jani
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Full-Stack+%26+AI+Developer;Building+real-world+projects)](https://git.io/typing-svg)
-
-![Profile Views](https://komarev.com/ghpvc/?username=janihet9001-blip&color=2563EB&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
-
----
-
 ## About Me
 
 Computer Engineering student at **LDRP Institute of Technology & Research** (2023–2027), passionate about building intelligent, real-world systems at the intersection of AI and full-stack development.
@@ -105,20 +97,6 @@ Computer Engineering student at **LDRP Institute of Technology & Research** (202
 
 - Chrome extension controlled via **natural language**
 - Integrated AI model for real-time browser responses
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-![Contributions](https://img.shields.io/badge/Total_Contributions-80-2563EB?style=for-the-badge&logo=github&logoColor=white)
-![Streak](https://img.shields.io/badge/Current_Streak-8_days-10B981?style=for-the-badge&logo=github&logoColor=white)
-![Since](https://img.shields.io/badge/GitHub_Since-Dec_2025-8B5CF6?style=for-the-badge&logo=github&logoColor=white)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=janihet9001-blip&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
